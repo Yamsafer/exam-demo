@@ -24,7 +24,8 @@ Please complete the following steps to submit your test. You will be able to pra
 - `git push origin solution`
 - Create pull request to the `master` branch from your `solution` branch using github website
 
-
+## To Apply:
+Go to https://www.yamsafer.com/careers/
 
 # GOOD LUCK!
 
