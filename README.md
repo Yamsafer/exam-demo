@@ -1,9 +1,9 @@
 # Yamsafer Test
 Thank you for your interest in working at Yamsafer Inc.!
 
-We would like you to take a short programming challenge so that we can get a better sense of your programming skills.
+This is a demo test to practice Yamsafer technical interview where you will take a short programming challenge so that you can get a better sense of your programming skills.
 
-Please complete the following steps to submit your test. You will be able to practice with a demo or start the test. Make sure you are ready by completing all prerequisites before you begin your test.
+Here you will be able to practice with a demo. Make sure you are ready by completing all prerequisites before you begin the demo.
 
 ## Prerequisites:
 1. Make sure you have a github account (https://github.com/join)
@@ -24,7 +24,7 @@ Please complete the following steps to submit your test. You will be able to pra
 - `git push origin solution`
 - Create pull request to the `master` branch from your `solution` branch using github website
 
-## To Apply:
+## To apply for an engineering position at Yamsafer:
 Go to https://www.yamsafer.com/careers/
 
 # GOOD LUCK!
