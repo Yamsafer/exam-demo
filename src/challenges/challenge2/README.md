@@ -1,6 +1,6 @@
 # Largest Element
 
-## Taks Description
+## Task Description
 
 The largest number in an array is the number that is strictly greater than or equal to all other numbers in the array.
 
