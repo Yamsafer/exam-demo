@@ -1,6 +1,6 @@
 # Array reverse
 
-## Taks Description
+## Task Description
 
 Array reverse is the operation of reversing an array. The first element becomes the last and the last element becomes the first and so on. e.g Consider having the following array: [4,3,9,5,23], it's reverse would be [23,5,9,3,4]
 
