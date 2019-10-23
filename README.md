@@ -20,6 +20,7 @@ Here you will be able to practice with a demo. Make sure you are ready by comple
 - `git checkout -b solution`
 3. You can test your progress at anytime by running `npm test` which will execute the unite tests against your code.
 4. To submit your test, you need to commit and push your work and then create a pull request to the `master` branch
+- `git add .`
 - `git commit -am "completed final solution"`
 - `git push origin solution`
 - Create pull request to the `master` branch from your `solution` branch using github website
