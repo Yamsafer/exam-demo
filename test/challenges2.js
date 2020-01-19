@@ -19,10 +19,17 @@ const testData = [
     expect: 9
   }
 ]
+/*
 describe('Challenge 2 ->', function() {
   testData.forEach((data) => {
     it(`should return ${data.expect} for [${data.input}] `, function() {
       assert.equal(challenge1.solution(data.input), data.expect)
     })  
   })
-})
+})*/
+
+testData.forEach(data => {
+  console.log(challenge1.solution(data.input));
+
+    assert.equal(challenge1.solution(data.input), data.expect);
+});
